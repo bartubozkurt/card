@@ -45,6 +45,7 @@ import SignUp from "./pages/sign-up";
 //   > button:not(:first-child) {
 //     visibility: visible; /* switch to 'visible' */
 //   }
+//
 // `;
 
 function App() { 
