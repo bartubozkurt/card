@@ -1,0 +1,80 @@
+[
+  {
+    "hexa": "#1D1148",
+    "title": "Harry",
+    "description": "CEO in the Contract Checker",
+    "image": "https://ipfs.io/ipfs/QmVMGQ7z4wn3eJireDaa9gg3NgPMSSPE6sdL9CQXNCt6Hb/harry-kedelman.jpg"
+  },
+  {
+    "hexa": "#FFCD00",
+    "title": "Benjamin",
+    "description": "CFO in the Contract Checker",
+    "image": "https://ipfs.io/ipfs/QmVMGQ7z4wn3eJireDaa9gg3NgPMSSPE6sdL9CQXNCt6Hb/benjamin.jpg"
+  },
+  {
+    "hexa": "#1D1148",
+    "title": "Vincenzo",
+    "description": "CMO in the Contract Checker",
+    "image": "https://ipfs.io/ipfs/QmVMGQ7z4wn3eJireDaa9gg3NgPMSSPE6sdL9CQXNCt6Hb/vincenzo-di-porto.jpg"
+  },
+  {
+    "hexa": "#0a5cec",
+    "title": "Ivan",
+    "description": "COO in the Contract Checker",
+    "image": "https://ipfs.io/ipfs/QmVMGQ7z4wn3eJireDaa9gg3NgPMSSPE6sdL9CQXNCt6Hb/ivan-henderson.jpg"
+  },
+  {
+    "hexa": "#993118",
+    "title": "Igor",
+    "description": "Developer Lead in the Contract Checker",
+    "image": "https://ipfs.io/ipfs/QmVMGQ7z4wn3eJireDaa9gg3NgPMSSPE6sdL9CQXNCt6Hb/igor-todorovsko.jpg"
+  },
+  {
+    "hexa": "#64115c",
+    "title": "Ray",
+    "description": "Solidity Developer in the Contract Checker",
+    "image": "https://ipfs.io/ipfs/QmVMGQ7z4wn3eJireDaa9gg3NgPMSSPE6sdL9CQXNCt6Hb/ray.jpg"
+  },
+  {
+    "hexa": "#254739",
+    "title": "Jozef",
+    "description": "Solidity Developer in the Contract Checker",
+    "image": "https://ipfs.io/ipfs/QmVMGQ7z4wn3eJireDaa9gg3NgPMSSPE6sdL9CQXNCt6Hb/jozef-karamanyan.jpg"
+  },
+  {
+    "hexa": "#770196",
+    "title": "Sandy",
+    "description": "Blockchain Developer in the Contract Checker",
+    "image": "https: //ipfs.io/ipfs/QmVMGQ7z4wn3eJireDaa9gg3NgPMSSPE6sdL9CQXNCt6Hb/sandy-washington.jpg"
+  },
+  {
+    "hexa": "#ff5053",
+    "title": "Richard",
+    "description": "Full Stack Developer in the Contract Checker",
+    "image": "https://ipfs.io/ipfs/QmVMGQ7z4wn3eJireDaa9gg3NgPMSSPE6sdL9CQXNCt6Hb/richard-crew.jpg"
+  },
+  {
+    "hexa": "#2a432b",
+    "title": "Altair",
+    "description": "Solidity Developer in the Contract Checker",
+    "image": "https://ipfs.io/ipfs/QmVMGQ7z4wn3eJireDaa9gg3NgPMSSPE6sdL9CQXNCt6Hb/altair-havaror.jpg"
+  },
+  {
+    "hexa": "#ff5053",
+    "title": "Alex",
+    "description": "DAPP Developer in the Contract Checker",
+    "image": "https://ipfs.io/ipfs/QmVMGQ7z4wn3eJireDaa9gg3NgPMSSPE6sdL9CQXNCt6Hb/alex-marston.jpg"
+  },
+  {
+    "hexa": "#75b71c",
+    "title": "Sighard",
+    "description": "Security Developer in the Contract Checker",
+    "image": "https://ipfs.io/ipfs/QmVMGQ7z4wn3eJireDaa9gg3NgPMSSPE6sdL9CQXNCt6Hb/sighard-cayman.jpg"
+  },
+  {
+    "hexa": "#ff5053",
+    "title": "Marco",
+    "description": "DAPP Developer in the Contract Checker",
+    "image": "https://ipfs.io/ipfs/QmVMGQ7z4wn3eJireDaa9gg3NgPMSSPE6sdL9CQXNCt6Hb/marco-luoni.jpg"
+  }    
+]
